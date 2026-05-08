@@ -2,7 +2,7 @@
 
 Welcome to the official documentation for **Hemolytik**, a comprehensive, manually curated database of experimentally determined hemolytic and non-hemolytic peptides. Hemolytic activity is a critical measure of a peptide's toxicity toward mammalian red blood cells (erythrocytes) and is a major limiting factor in the clinical development of peptide-based therapeutics .
 
-**Web Server:** [http://crdd.osdd.net/raghava/hemolytik/](http://crdd.osdd.net/raghava/hemolytik/) 
+**Web Server:** [http://crdd.osdd.net/raghava/hemolytik/](http://crdd.osdd.net/raghava/hemolytik/) (https://webs.iiitd.edu.in/raghava/hemolytik/)
 
 ---
 
