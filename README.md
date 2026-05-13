@@ -13,6 +13,8 @@ Gautam, A., Chaudhary, K., Singh, S., Joshi, A., Anand, P., Tuknait, A., Mathur,
 *Nucleic Acids Research*, 42(D1), D444–D449.
 [https://doi.org/10.1093/nar/gkt1008](https://doi.org/10.1093/nar/gkt1008)
 
+Zenodo:-(https://doi.org/10.5281/zenodo.20079981)
+
 ---
 
 ## About the Platform
